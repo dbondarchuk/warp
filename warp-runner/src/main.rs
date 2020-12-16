@@ -1,3 +1,5 @@
+#![windows_subsystem = "windows"]
+
 extern crate dirs;
 #[macro_use]
 extern crate log;

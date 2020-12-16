@@ -1,3 +1,8 @@
+# NOTE
+
+This for is made to make warp console window hidden on Windows
+
+
 # Warp
 Warp lets you create self-contained single binary applications making it simpler and more ergonomic to deliver your application to your customers. A self-contained binary is specially convenient when the technology you use, such as Node.js, .NET Core, Java and others, contain many dependencies that must be shipped alongside your application.
 
