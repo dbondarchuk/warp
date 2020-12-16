@@ -1,6 +1,6 @@
 # NOTE
 
-This for is made to make warp console window hidden on Windows
+This fork is made to make warp console window hidden on Windows
 
 
 # Warp
